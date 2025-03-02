@@ -1,4 +1,4 @@
-# *Object-Oriented Programming (OOP) Theory*
+# *Object-Oriented Programming (OOP)*
 
 ## *Introduction to OOP*
 Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects," which contain data (attributes) and behavior (methods). OOP helps in designing software that is modular, reusable, and scalable.
