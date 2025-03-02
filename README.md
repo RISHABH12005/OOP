@@ -1,6 +1,6 @@
 # *Object-Oriented Programming (OOP)*
 
-## *Introduction*
+## *Intro*
 A programming paradigm based on the concept of "objects," which contain data (attributes) & behavior (methods). OOP helps in designing software that is modular, reusable, scalable.
 
 ---
