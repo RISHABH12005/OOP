@@ -3,8 +3,6 @@
 ## *Intro*
 A programming paradigm based on the concept of "objects," which contain data (attributes) & behavior (methods). OOP helps in designing software that is modular, reusable, scalable.
 
----
-
 ## *Key Principles*
 
 ### *1. Encapsulation*
@@ -22,8 +20,6 @@ Inheritance allows one class (child or subclass) to acquire the properties & beh
 ### *4. Polymorphism*
 Polymorphism allows the same operation to be performed in different ways based on the object that calls it. This makes code more flexible & scalable.
 - Example: A function called "draw()" could be used for different shapes like circles, rectangles, triangles, each having its own implementation of "draw()".
-
----
 
 ## *Benefits*
 - *Modularity*: Code is organized into objects & classes, making it easier to manage.
