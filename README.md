@@ -27,3 +27,6 @@ Polymorphism allows the same operation to be performed in different ways based o
 - *Scalability*: OOP makes it easier to scale applications as they grow in complexity.
 - *Maintainability*: Changes can be made to specific parts of the code without affecting the entire system.
 - *Security*: Encapsulation helps protect data from unintended modifications.
+
+## *Installation*
+- [MSYS2 Installation Doc](https://www.msys2.org/)
